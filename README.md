@@ -14,8 +14,8 @@
 <br/><br/>
 
 <!-- Big Centered Name and Subtitle -->
-<h1 align="center" style="font-size: 60px; font-weight: 900; color: #00E5FF; margin-bottom: 0px;">RITAM DAS</h1>
-<h3 align="center" style="color: #ffffff; margin-top: 0px;">Drone & Robotics | Embedded Systems | AI</h3>
+<!-- Big Glowing Name Banner -->
+<img src="./banner.svg" alt="Ritam Das Banner" width="800">
 
 <!-- Glowing Cyan Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
