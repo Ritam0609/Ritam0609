@@ -7,9 +7,9 @@
 
 <!-- Minimalist Terminal-Style Social Links (Bug Fixed) -->
 <!-- ⚠️ REPLACE THE LINKS IN THE PARENTHESES (...) WITH YOUR ACTUAL LINKS -->
-[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/your-linkedin-profile)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=00E5FF)](https://instagram.com/your-instagram-handle)
+[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:dasritam0609@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/ritam-das-uem)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=00E5FF)](https://instagram.com/its_ritam_2004)
 
 <br/><br/>
 
