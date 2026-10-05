@@ -24,7 +24,7 @@
 
 <br/>
 
-> *"I believe the best way to learn engineering is to build, break, debug, and build again."*
+> *"I will make it work. I'm Insane. Watch me."*
 >
 > — Ritam Das
 
@@ -81,14 +81,6 @@ My engineering philosophy is built on **performance and real-world application.*
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=00E5FF)
 
 <br/>
-
-### 📊 SYSTEM.TELEMETRY (GitHub Stats)
-<!-- ⚠️ REPLACE 'YOUR_GITHUB_USERNAME_HERE' WITH YOUR ACTUAL USERNAME TWICE BELOW -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&bg_color=00000000&hide_border=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" height="192px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&bg_color=00000000&hide_border=true&title_color=00E5FF&text_color=ffffff" height="192px" alt="Top Languages"/>
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
   <br/>
